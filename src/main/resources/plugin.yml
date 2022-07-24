@@ -1,0 +1,9 @@
+name: Myplugin
+version: '${project.version}'
+main: com.lsk.mc.myplugin.Myplugin
+api-version: 1.18
+description: The plugin for my server
+commands:
+  helper:
+    description: Lsk's helper plugin
+    usage: Nothing there.
